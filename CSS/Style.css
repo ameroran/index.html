@@ -1,0 +1,27 @@
+body {
+background-color: rgb(100, 100, 100);
+}
+
+title {
+    color: #000001;
+}
+
+header nav ul li {
+    display: inline-block;
+    padding: 25px;
+}
+
+#himalaya {
+    width: 20px;
+    height: 20px;
+    
+}
+
+footer {
+    background-color: rgb(19, 189, 161);
+}
+footer p {
+    color: black;
+text-align: center;
+padding: 25px;
+}
